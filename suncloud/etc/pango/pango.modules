@@ -1,0 +1,17 @@
+# Pango Modules file
+# Automatically generated file, do not edit
+#
+# ModulesPath = D:\spicy-viewer\lib\pango\1.8.0\modules
+#
+"D:\\spicy-viewer\\lib\\pango\\1.8.0\\modules\\pango-arabic-lang.dll" ArabicScriptEngineLang PangoEngineLang PangoRenderNone arabic:*
+"D:\\spicy-viewer\\lib\\pango\\1.8.0\\modules\\pango-indic-lang.dll" devaIndicScriptEngineLang PangoEngineLang PangoRenderNone devanagari:*
+"D:\\spicy-viewer\\lib\\pango\\1.8.0\\modules\\pango-indic-lang.dll" bengIndicScriptEngineLang PangoEngineLang PangoRenderNone bengali:*
+"D:\\spicy-viewer\\lib\\pango\\1.8.0\\modules\\pango-indic-lang.dll" guruIndicScriptEngineLang PangoEngineLang PangoRenderNone gurmukhi:*
+"D:\\spicy-viewer\\lib\\pango\\1.8.0\\modules\\pango-indic-lang.dll" gujrIndicScriptEngineLang PangoEngineLang PangoRenderNone gujarati:*
+"D:\\spicy-viewer\\lib\\pango\\1.8.0\\modules\\pango-indic-lang.dll" oryaIndicScriptEngineLang PangoEngineLang PangoRenderNone oriya:*
+"D:\\spicy-viewer\\lib\\pango\\1.8.0\\modules\\pango-indic-lang.dll" tamlIndicScriptEngineLang PangoEngineLang PangoRenderNone tamil:*
+"D:\\spicy-viewer\\lib\\pango\\1.8.0\\modules\\pango-indic-lang.dll" teluIndicScriptEngineLang PangoEngineLang PangoRenderNone telugu:*
+"D:\\spicy-viewer\\lib\\pango\\1.8.0\\modules\\pango-indic-lang.dll" kndaIndicScriptEngineLang PangoEngineLang PangoRenderNone kannada:*
+"D:\\spicy-viewer\\lib\\pango\\1.8.0\\modules\\pango-indic-lang.dll" mlymIndicScriptEngineLang PangoEngineLang PangoRenderNone malayalam:*
+"D:\\spicy-viewer\\lib\\pango\\1.8.0\\modules\\pango-indic-lang.dll" sinhIndicScriptEngineLang PangoEngineLang PangoRenderNone sinhala:*
+
